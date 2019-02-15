@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "docusaurus": "^1.7.2"
+  },
+  "dependencies": {
+    "yarn": "^1.13.0"
   }
 }

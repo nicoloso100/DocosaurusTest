@@ -23,8 +23,8 @@ const users = [
 const siteConfig = {
   title: 'Documentacion de Facturación Electrónica', // Title for your website.
   tagline: 'Página de FE',
-  url: 'https://your-docusaurus-test-site.com', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  url: 'http://localhost/ss/', // Your website URL
+  baseUrl: 'http://localhost/ss/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
@@ -38,8 +38,8 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Documentación Cliente'},
-    {doc: 'doc2', label: 'Documentación Desarrollo'},
+    {doc: 'doc11', label: 'Documentación Cliente'},
+    {doc: 'doc21', label: 'Documentación Desarrollo'},
   ],
 
   // If you have users set above, you add it here:

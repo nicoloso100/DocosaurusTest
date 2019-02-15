@@ -1,23 +1,31 @@
 {
-  "docs": {
-    "My Example Category": [
-      "examples",
+  "DocumentacionCiente": {
+    "Documentación del cliente": [
       {
         "type": "subcategory",
-        "label": "My Example Subcategory",
+        "label": "Documentación 1.1",
         "ids": [
-          "doc1",
-          "doc3"
+          "doc11"
         ]
       },
       {
         "type": "subcategory",
-        "label": "My Next Subcategory",
+        "label": "Documentación 1.2",
         "ids": [
-          "doc2"
+          "doc12"
         ]
-      },
-      "even-more-examples"
+      }
+    ]
+  },
+  "DocumentacionDesarrollo": {
+    "Documentación de desarrollo": [
+      {
+        "type": "subcategory",
+        "label": "Documentación 2.1",
+        "ids": [
+          "doc21"
+        ]
+      }
     ]
   }
 }
